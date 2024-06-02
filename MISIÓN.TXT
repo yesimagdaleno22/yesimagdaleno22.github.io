@@ -1,0 +1,37 @@
+﻿<HTML>
+
+<HEAD>
+<TITLE>       MISIÓN, VISIÓN, VALORES                    </TITLE>
+</HEAD>
+
+<BODY BGCOLOR="BLACK">
+
+<CENTER>
+<FONT SIZE="9" FACE="ARIAL BLACK" COLOR="WHITE"> MISIÓN </FONT>
+</CENTER>
+<HR></HR>
+<P STYLE="TEXT-ALIGN:JUSTIFY"><FONT FACE ="BAKERSIGNET BT" SIZE="6" COLOR="WHITE"> 
+La misión de Adidas es ser la mejor marca deportiva del mundo. Buscan diseñar, fabricar y vender los mejores productos, inspirar a los atletas y a los consumidores, y contribuir al cambio global. Su objetivo es ayudar a las personas a llevar una vida más activa y saludable a través del deporte.</P></FONT>
+</BR>
+<CENTER>
+<FONT SIZE="9" FACE="ARIAL BLACK" COLOR="WHITE"> VISIÓN </FONT>
+</CENTER>
+<HR></HR>
+<P STYLE="TEXT-ALIGN:JUSTIFY"><FONT FACE ="BAKERSIGNET BT" SIZE="6" COLOR="WHITE"> 
+La visión de Adidas es ser la empresa líder en la industria del deporte, con un amplio enfoque en la sostenibilidad y la innovación. Buscan crear un impacto positivo en el mundo a través del deporte, tanto a nivel social como ambiental. Además, se esfuerzan por ser una marca que constantemente desafía lo convencional y busca nuevas formas de mejorar la experiencia deportiva para atletas y consumidores. </BR></FONT>
+<CENTER>
+<FONT SIZE="9" FACE="ARIAL BLACK" COLOR="WHITE"> VALORES </FONT>
+</CENTER>
+<HR></HR>
+<P STYLE="TEXT-ALIGN:JUSTIFY"> <FONT FACE ="BAKERSIGNET BT" SIZE="6" COLOR="WHITE"> 
+Los valores de Adidas se centran en la pasión por el deporte, la autenticidad, la innovación, la diversidad y la integridad.
+La marca se esfuerza por ser inclusiva y por promover un ambiente de trabajo que fomente la creatividad y el crecimiento personal.
+Además, Adidas busca constantemente superar los límites y desafiar lo establecido en el mundo del deporte y la moda.
+</P></FONT>
+</BR>
+<CENTER>
+<IMG SRC="BANER_1.JPG" WIDHT="3" HEIGHT="167">
+</CENTER>
+</BODY>
+
+</HTML>
